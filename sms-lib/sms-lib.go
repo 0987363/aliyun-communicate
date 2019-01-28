@@ -11,7 +11,6 @@ import (
 	"encoding/base32"
 	"encoding/base64"
 	"errors"
-	"fmt"
 	"net/url"
 	"sort"
 	"strings"
